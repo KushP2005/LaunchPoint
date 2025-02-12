@@ -1,18 +1,4 @@
-# LaunchPoint Simulated Flight
-
-## Description
-This project uses threads to refresh the display and simulate the fuel, oxygen, distance, and energy in a ship. and it displays the speeds of the systems propulsion, life support, crew, and generator
-
-## Compilation and Running Instructions
-Run the following in the terminal: 
-- make
-- ./filename
-
-## Names of Collaborators
-Kush Pandya
-
-
-## 🚀 LaunchPoint – Spacecraft Control System
+# 🚀 LaunchPoint – Spacecraft Control System
 LaunchPoint is a high-performance spacecraft control system designed to manage and optimize real-time sensor data processing for space missions. Built in C with multi-threading, semaphores, and dynamic memory management, LaunchPoint ensures efficient resource allocation and system stability under extreme conditions.
 
 ✨ Features
@@ -33,3 +19,11 @@ Event-Driven Logic – Detects anomalies and reallocates resources in real-time 
 📌 Future Improvements
 Implement machine learning models for predictive system optimizations.
 Enhance GUI-based monitoring for real-time system visualization.
+
+## Description
+This project uses threads to refresh the display and simulate the fuel, oxygen, distance, and energy in a ship. and it displays the speeds of the systems propulsion, life support, crew, and generator
+
+## Compilation and Running Instructions
+Run the following in the terminal: 
+- make
+- ./filename
