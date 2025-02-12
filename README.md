@@ -8,9 +8,9 @@ LaunchPoint is a high-performance spacecraft control system designed to manage a
 🔹 Fault Tolerance & Efficiency – Reduces data inconsistencies and enhances system resilience in critical operations.
 
 ## ⚙️ Tech Stack
-🔹 Programming Language: C
-🔹 OS & Tools: VirtualBox, Linux, Bash
-🔹 Concurrency: POSIX Threads, Semaphores
+🔹 Programming Language: C \n
+🔹 OS & Tools: VirtualBox, Linux, Bash \n
+🔹 Concurrency: POSIX Threads, Semaphores \n
 
 ## 🚀 How It Works
 Sensor Data Handling – Efficiently stores and processes sensor inputs using linked lists and dynamic arrays.
