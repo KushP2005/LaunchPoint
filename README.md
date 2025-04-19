@@ -26,4 +26,4 @@ This project uses threads to refresh the display and simulate the fuel, oxygen, 
 ## Compilation and Running Instructions
 Run the following in the terminal: 
 - make
-- ./filename
+- ./launchpoint
